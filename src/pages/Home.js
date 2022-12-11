@@ -14,7 +14,6 @@ import Testimnial from "../components/Testimonial/Testimnial";
 
 const Home = () => {
   const [show, setShow] = useState(false);
-  // const [itemqtty, setItemqtty] = useState(3);
 
   return (
     <>
