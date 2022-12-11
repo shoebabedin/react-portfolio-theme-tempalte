@@ -1,0 +1,443 @@
+[
+  {
+    "id": 0,
+    "img": "item1",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Finding the best smartwatch in 2022 seems like looking for a needle in a haystack. Beyond the pricey Apple Watch, there are so many options offering the same features, fitness tools and similar watch faces, trying to find the perfect smartwatch for you can be challenging. While some are just smartwatch-shaped fitness trackers, the smartwatches mentioned here are the best ones to buy right now. One of the ways to narrow down your search is to remember that you have to find a smartwatch that's compatible with your smartphone. Some smartwatches only work with iPhones, while others only work with Android. But that only scratches the surface. Most smartwatches should include additional features like heart-rate monitoring, activity tracking, sleep tracking, GPS tracking and smartphone notifications on your wrist. Many of the best smartwatches also support contactless payments and others have LTE or cellular connectivity, so you really can leave your phone at home.We've rounded up the top smartwatches you can buy in 2022 based on function, price and compatibility to help you decide which is the best smartwatch for you. This list is updated periodically with new reviews of the best smartwatch options.",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "img": "item2",
+    "title": "Best Wireless Headphone in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": "Bluetooth wireless headphones come in so many different forms, shapes and sizes that it can be hard to know which one is the best option for you. Full-size headphones, true-wireless earbuds, noise-cancelling headphones and so many more make the decision a difficult one. How do you know which are the right Bluetooth headphones for you? We can't tell you exactly which pairs of wireless headphones meets your needs, but we can provide a healthy list of top wireless headphones and earbuds options to help narrow down your choice. The key ingredients in what makes a 'best wireless headphone' boil down to the same thing: being wireless, comfort (design), sound quality, feature set and overall performance as it applies to voice calling and noise canceling, which is becoming a more common feature in Bluetooth headphones and earbuds. Other factors such as durability, battery life and value also figure into our evaluation. If you're looking for more refined headphone and earbuds lists, we have plenty to choose from, including best wireless earbuds, best noise-canceling headphones, best workout headphones and best headphones and earbuds for making calls, among many others. This list will be updated regularly with the best wireless headphones.",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "item3",
+    "title": "Best Mouse in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": "The best mouse is a vital part of a solid setup for work or for gaming, even if you're using a laptop. The best mouse can help you work and play more comfortably, it can give you more accuracy, and it can even improve productivity. Bundled mice that come with PCs aren't usually very ergonomic, nor do they have advanced workflow-boosting features, but, happily, there's a range of good options out there. Below, we list the best mouse options for different uses and different budgets. For each one, we've outlined its strengths and weaknesses and provided links that track the best current prices. If you're an Apple user, you might also want to see our specific guides to the best mouse for MacBook Pro and Air (and we also have picks of the best keyboards for Mac and the best MacBook Pro accessories overall). For other options, see our guide to the best USB-C mouse options. We've made our own pick of the best mouse options by looking for the best specs combined with sound ergonomics. We've sought out mice that reviewers rate as comfortable for long periods of use while offering smooth and accurate tracking – which can help avoid the frustration of having to redo wonky selections. We've also looked for devices with adjustable levels of sensitivity and programmable buttons for shortcuts that can boost the efficiency of your workflow. Inevitably, our choice as the best mouse overall isn't exactly cheap, so we've aimed to provide options at cheaper prices too, which we rate as the best in their class based on our own reviews and recommendations from contacts. At the bottom of this guide, you'll find some tips on how to choose the best mouse for you, but first, here's our selection of the best mouse options available now.",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "item4",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas. Lorem ipsum",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "comment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "item5",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas. Lorem ipsum",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "item6",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas. Lorem ipsum",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "item7",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas. Lorem ipsum",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "item8",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas. Lorem ipsum",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "item9",
+    "title": "Best Smart Watch in 2022",
+    "published_by": "admin",
+    "published_date": "10.22.2018",
+    "comment_category": "technology",
+    "comment_tag": [
+      {
+        "id": 0,
+        "title": "App Design"
+      },
+      {
+        "id": 1,
+        "title": "Web Design"
+      },
+      {
+        "id": 2,
+        "title": "Design"
+      }
+    ],
+    "desc": " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, porro rem quod illo quam, eum alias id, repellendus magni, quas. Lorem ipsum",
+    "comment": [
+      {
+        "id": 0,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Marting Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 1,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Nepal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 2,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Gopal Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      },
+      {
+        "id": 3,
+        "comment_img": "commenting-item",
+        "cocomment_ttl": "Haris Guptil",
+        "comment_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus eu consectetur neque elit quis nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin, tellus vitae condimentum egestas, libero dolor auctor tellus, eu consectetur neque elit quis nunc."
+      }
+    ]
+  }
+]
