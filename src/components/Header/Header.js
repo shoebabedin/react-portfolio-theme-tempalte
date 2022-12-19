@@ -1,6 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 
+function refreshPage() {
+  setTimeout(()=>{
+      window.location.reload(false);
+  }, 500);
+  console.log('page to reload')
+}
+
 const Header = () => {
   const [scrollPosition, setPosition] = useState({ scrollY: 0 });
 
@@ -12,6 +19,9 @@ const Header = () => {
     updatePosition();
     return () => window.removeEventListener("scroll", updatePosition);
   }, []);
+
+
+ 
 
   return (
     <>
@@ -64,27 +74,27 @@ const Header = () => {
             >
               <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <NavLink className="nav-link " aria-current="page" to="/">
+                  <NavLink className="nav-link " aria-current="page" to="/" onClick={refreshPage}>
                     Home
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink className="nav-link" to="/about">
+                  <NavLink className="nav-link" to="/about" onClick={refreshPage}>
                     About
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink className="nav-link" to="/portfolio">
+                  <NavLink className="nav-link" to="/portfolio" onClick={refreshPage}>
                     Portfolio
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink className="nav-link" to="/blog">
+                  <NavLink className="nav-link" to="/blog" onClick={refreshPage}>
                     Blog
                   </NavLink>
                 </li>
                 <li className="nav-item">
-                  <NavLink className="nav-link" to="/contact">
+                  <NavLink className="nav-link" to="/contact" onClick={refreshPage}>
                     Contact
                   </NavLink>
                 </li>

@@ -15,7 +15,7 @@ const Hero = () => {
                 websites, web services and online stores.
               </p>
               <div className="img">
-                <img src="./assets/images/hero/hero.webp" alt="" />
+                <img src={require("./../../assets/images/hero/hero.webp")} alt="" />
               </div>
             </div>
             <div className="col-lg-6 col-md-12 col-sm-12">
