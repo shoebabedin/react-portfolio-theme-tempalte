@@ -9,6 +9,7 @@ const Portfolio = () => {
   const [show, setShow] = useState(false);
   const [data, setData] = useState(portfolioData);
   const [filterData, setFilterData] = useState(portfolioData);
+  const [select, setSelect] = useState("All Projects");
 
   useEffect(() => {}, [filterData]);
 
@@ -17,6 +18,7 @@ const Portfolio = () => {
   };
 
   const handleFilter = (title) => {
+    setSelect(title)
     title === "All Projects"
       ? setFilterData(data)
       : setFilterData(data.filter((item) => item.category === title));
@@ -43,7 +45,7 @@ const Portfolio = () => {
             ].map((item, i) => (
               <button
                 key={i}
-                className="filter"
+                className={`filter ${item === select ? 'active' : ''}`}
                 onClick={() => handleFilter(item)}
               >
                 {item}
