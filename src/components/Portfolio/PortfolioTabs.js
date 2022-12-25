@@ -19,7 +19,10 @@ const PortfolioTabs = (props) => {
               alt=""
             />
             <div className="overlay" onClick={() => handleShow(item)}>
-              <p>{item.title}</p>
+              <div>
+                <p>{item.title}</p>
+                <button>Details</button>
+              </div>
             </div>
           </div>
         </div>
