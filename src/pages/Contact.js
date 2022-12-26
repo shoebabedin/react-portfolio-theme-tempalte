@@ -44,7 +44,7 @@ const Contact = () => {
             </div>
             <div className="col-lg-5">
               <div className="comments">
-                <h5>Get In Touch</h5>
+                <h5>Contact Info</h5>
                 <p>
                   Always available for freelance work if the right project comes
                   along, Feel free to contact me!
