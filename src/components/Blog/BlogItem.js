@@ -4,18 +4,20 @@ import blogdata from "../../assets/data/blog.json";
 
 const BlogItem = ({ item }) => {
   // const [itemShow, setItemShow] = useState();
-  const path = useLocation
+  const path = useLocation();
+  const pathname = path.pathname;
+
+  console.log(pathname);
 
   return (
     <>
       <section className="blogs">
         <div className="container">
-          d
           <div className="row">
-            <div className="col-md-12 text-center">
+            {pathname === "/" && <div className="col-md-12 text-center">
               <h5>Blogs</h5>
               <h2>Latest Updates</h2>
-            </div>
+            </div>}
             {blogdata.slice(0, item).map((item) => (
               <div key={item.id} className="col-lg-4 col-md-6 mb-md-3">
                 <Link to={`/blog-details/${item.id}`}>
